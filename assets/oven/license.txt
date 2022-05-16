@@ -1,0 +1,11 @@
+Model Information:
+* title:	Oven Lowpoly
+* source:	https://sketchfab.com/3d-models/oven-lowpoly-5d7913a1e8d0400facb40514b448591e
+* author:	OnOne Supplies (https://sketchfab.com/ononesupplies)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Oven Lowpoly" (https://sketchfab.com/3d-models/oven-lowpoly-5d7913a1e8d0400facb40514b448591e) by OnOne Supplies (https://sketchfab.com/ononesupplies) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

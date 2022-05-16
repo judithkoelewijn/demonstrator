@@ -1,0 +1,11 @@
+Model Information:
+* title:	Thermos Lowpoly
+* source:	https://sketchfab.com/3d-models/thermos-lowpoly-c7c08ea09ab548f98d9785c05617c04d
+* author:	OnOne Supplies (https://sketchfab.com/ononesupplies)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Thermos Lowpoly" (https://sketchfab.com/3d-models/thermos-lowpoly-c7c08ea09ab548f98d9785c05617c04d) by OnOne Supplies (https://sketchfab.com/ononesupplies) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

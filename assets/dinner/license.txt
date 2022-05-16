@@ -1,0 +1,11 @@
+Model Information:
+* title:	Dinner table with shairs
+* source:	https://sketchfab.com/3d-models/dinner-table-with-shairs-07105f6529da4945878269af62f018bb
+* author:	jorgeldr (https://sketchfab.com/jorgeldr3015)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Dinner table with shairs" (https://sketchfab.com/3d-models/dinner-table-with-shairs-07105f6529da4945878269af62f018bb) by jorgeldr (https://sketchfab.com/jorgeldr3015) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

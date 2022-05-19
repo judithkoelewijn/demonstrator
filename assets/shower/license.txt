@@ -1,0 +1,11 @@
+Model Information:
+* title:	Shower
+* source:	https://sketchfab.com/3d-models/shower-3c1e3162f05147bea97b5515ce2d4031
+* author:	Ali107_YT (https://sketchfab.com/Ali_Army107)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Shower" (https://sketchfab.com/3d-models/shower-3c1e3162f05147bea97b5515ce2d4031) by Ali107_YT (https://sketchfab.com/Ali_Army107) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

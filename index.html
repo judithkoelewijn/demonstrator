@@ -4,7 +4,7 @@
 <head>
   <meta charset="utf-8">
   <meta name="authors" content="JudithBente">
-  <title>Aframe environment Judith and Bente</title>
+  <title>Aframe environment</title>
   <meta name="description" content="Aframe assignment">
   <script src="https://aframe.io/releases/1.2.0/aframe.min.js"></script>
   <script src="https://unpkg.com/aframe-room-component/dist/aframe-room-component.min.js"></script>
@@ -172,7 +172,14 @@
       <a-asset-items id="thermo" src="assets/thermo/scene.gltf"></a-asset-items>
       <a-asset-items id="dinner" src="assets/dinner/scene.gltf"></a-asset-items>
       <a-asset-items id="kitchen-cabin" src="assets/kitchen-cabins/scene.gltf"></a-asset-items>
-      
+      <a-asset-items id="bed" src="assets/bedd/scene.gltf"></a-asset-items>
+      <a-asset-items id="toilet" src="assets/toilet/scene.gltf"></a-asset-items>
+      <a-asset-items id="toiletpaper" src="assets/toiletpaper/scene.gltf"></a-asset-items>
+      <a-asset-items id="carpetshower" src="assets/carpet-shower/scene.gltf"></a-asset-items>
+      <a-asset-items id="closet" src="assets/closet/scene.gltf"></a-asset-items>
+      <a-asset-items id="door" src="assets/door/scene.gltf"></a-asset-items>
+      <a-asset-items id="sink" src="assets/sink/scene.gltf"></a-asset-items>
+     
 
     </a-assets>
 
@@ -180,21 +187,21 @@
     <!-- building the room / building (walls, front, roof, back, floor) -->
 
     <!--right-->
-    <a-box src="#boxTexture" position="-2.95259 0.91314 -5.429" depth="13.2" width="0.05" height="10" static-body
+    <a-box id="01" src="#boxTexture" position="-2.95259 0.91314 -5.429" depth="13.2" width="0.05" height="10" static-body
       rotation="0 0 0"></a-box>
     <!--front-->
-    <a-box src="#boxTexture" position="4 1 1.145" depth="0,05" width="14" height="10" static-body rotation="0 0 0">
+    <a-box id="02" src="#boxTexture" position="4 1 13.92626" depth="0,05" width="14" height="10" static-body rotation="0 0 0">
     </a-box>
    
     <!--left-->
-    <a-box src="#boxTexture" position="11 1 -5.429" depth="13.2" width="0.05" height="10" static-body rotation="0 0 0">
+    <a-box  id="03" src="#boxTexture" position="11 1 -5.429" depth="13.2" width="0.05" height="10" static-body rotation="0 0 0">
     </a-box>
 
     
     <!--back-->
-    <a-box src="#boxTexture" position="4 1 -9.198" depth="0,05" width="14" height="10" static-body rotation="0 0 0">
+    <a-box id="04" src="#boxTexture" position="4 1 -9.2207" depth="0,05" width="14" height="10" static-body rotation="0 0 0">
     </a-box>
-  
+   
     <!--floor-->
    
 
@@ -217,20 +224,22 @@
     rotation="0 0 0"></a-box>
    
   <!--front-->
-  <a-box id="2" src="#boxTexture" position="1 1 1" depth="0,05" width="14" height="10" static-body rotation="0 0 0">
+  <a-box id="2" src="#boxTexture"  position="3.91319 1 1" depth="0,05" width="14.000" height="10" static-body rotation="0 0 0">
   </a-box>
+
+
  
   <!--left-->
   <a-box id="3" src="#boxTexture" position="-2.99825 0.92056 7.27882" depth="13.2" width="0.05" height="10" static-body rotation="0 0 0">
   </a-box>
   
   <!--back-->
-  <a-box id="4" src="#boxTexture" position="4.00775 1 13.71243" depth="0,05" width="14" height="10" static-body rotation="0 0 0">
+  <a-box id="4" src="#boxTexture" position="4 1 -9.11342" depth="0,05" width="14" height="10" static-body rotation="0 0 0">
   </a-box>
- 
-  
- 
 
+  
+
+ 
   <!--floor-->
  
 
@@ -239,7 +248,7 @@
   </a-box>
 
   <!-- insert dynamic body objects -->
-  <a-box src="#wood" position="1 -0.2 1" rotation="0 0 0"  color="#ffffff" width="14" depth="13.2" height="1" static-body class="botsen">
+  <a-box src="#wood" position="3.93134 -0.2 7.42584" rotation="0 0 0"  color="#ffffff" width="14" depth="13.2" height="1" static-body class="botsen">
   
     </a-box>
 
@@ -268,7 +277,15 @@
     <a-entity gltf-model="#thermo" scale="0.008 0.008 0.008" position="-1.71596 1.33859 -8.8368"></a-entity>
     <a-entity gltf-model="#dinner" scale="0.009 0.009 0.009" position="8.49775 0.30135 -5.13014" rotation="0 0 0"></a-entity>
     <a-entity gltf-model="#kitchen-cabin" scale="17 17 17" position="-2.90206 0.22412 -9.03997"></a-entity>
-   
+    <a-entity gltf-model="#bed" scale="0.01 0.01 0.01" position="1 0.22412 1.16577"></a-entity>
+
+    <a-entity gltf-model="#toilet" scale="0.01 0.01 0.01" position="1 0.22412 5"></a-entity>
+    <a-entity gltf-model="#toiletpaper" scale="0.01 0.01 0.01" position="1.5 0.22412 5.5"></a-entity>
+    <a-entity gltf-model="#carpetshower" scale="0.01 0.01 0.01" position="2 0.22412 6"></a-entity>
+    <a-entity gltf-model="#closet" scale="0.01 0.01 0.01" position="2.5 0.22412 6.5"></a-entity>
+    <a-entity gltf-model="#door" scale="0.01 0.01 0.01" position="3 0.22412 7"></a-entity>
+    <a-entity gltf-model="#sink" scale="0.01 0.01 0.01" position="3.5 1.0479 7.5"></a-entity>
+
   </a-scene>
 
 

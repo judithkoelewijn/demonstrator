@@ -1,0 +1,11 @@
+Model Information:
+* title:	Side Table Dresser
+* source:	https://sketchfab.com/3d-models/side-table-dresser-e93ac78171c342f7b2424c6181ba4605
+* author:	Ryan_Nein (https://sketchfab.com/Ryan_Nein)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Side Table Dresser" (https://sketchfab.com/3d-models/side-table-dresser-e93ac78171c342f7b2424c6181ba4605) by Ryan_Nein (https://sketchfab.com/Ryan_Nein) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

@@ -1,0 +1,11 @@
+Model Information:
+* title:	Photo Frame
+* source:	https://sketchfab.com/3d-models/photo-frame-768acdc1714940a9b16d0c24975b43ad
+* author:	ShreyasGarje (https://sketchfab.com/ShreyasGarje)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Photo Frame" (https://sketchfab.com/3d-models/photo-frame-768acdc1714940a9b16d0c24975b43ad) by ShreyasGarje (https://sketchfab.com/ShreyasGarje) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

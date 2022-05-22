@@ -1,0 +1,364 @@
+{
+  "accessors": [
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 17152,
+      "max": [
+        1.0,
+        0.6239305734634399,
+        0.4022217094898224
+      ],
+      "min": [
+        -1.0,
+        -0.6239306330680847,
+        -0.4022217392921448
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 205824,
+      "componentType": 5126,
+      "count": 17152,
+      "max": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "min": [
+        -1.0,
+        -1.0,
+        -1.0
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "componentType": 5126,
+      "count": 17152,
+      "max": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "min": [
+        -1.0,
+        -1.0,
+        -1.0,
+        -1.0
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 17152,
+      "max": [
+        0.9945999979972839,
+        0.9927999973297119
+      ],
+      "min": [
+        0.011599999852478504,
+        0.005200028419494629
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 137216,
+      "componentType": 5126,
+      "count": 17152,
+      "max": [
+        0.9945999979972839,
+        0.9927999973297119
+      ],
+      "min": [
+        0.011599999852478504,
+        0.005200028419494629
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 274432,
+      "componentType": 5126,
+      "count": 17152,
+      "max": [
+        0.9945999979972839,
+        0.9927999973297119
+      ],
+      "min": [
+        0.011599999852478504,
+        0.005200028419494629
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 411648,
+      "componentType": 5126,
+      "count": 17152,
+      "max": [
+        0.9945999979972839,
+        0.9927999973297119
+      ],
+      "min": [
+        0.011599999852478504,
+        0.005200028419494629
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 548864,
+      "componentType": 5126,
+      "count": 17152,
+      "max": [
+        0.9945999979972839,
+        0.9927999973297119
+      ],
+      "min": [
+        0.011599999852478504,
+        0.005200028419494629
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "componentType": 5125,
+      "count": 64665,
+      "type": "SCALAR"
+    }
+  ],
+  "asset": {
+    "extras": {
+      "author": "DailyArt (https://sketchfab.com/D.art)",
+      "license": "CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)",
+      "source": "https://sketchfab.com/3d-models/retro-piano-fd4971cd71564319aa2132266d208185",
+      "title": "Retro piano"
+    },
+    "generator": "Sketchfab-12.66.0",
+    "version": "2.0"
+  },
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 258660,
+      "name": "floatBufferViews",
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 686080,
+      "byteOffset": 258660,
+      "byteStride": 8,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 411648,
+      "byteOffset": 944740,
+      "byteStride": 12,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 274432,
+      "byteOffset": 1356388,
+      "byteStride": 16,
+      "name": "floatBufferViews",
+      "target": 34962
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 1630820,
+      "uri": "scene.bin"
+    }
+  ],
+  "images": [
+    {
+      "uri": "textures/gangqin_baseColor.png"
+    },
+    {
+      "uri": "textures/gangqin_metallicRoughness.png"
+    },
+    {
+      "uri": "textures/gangqin_normal.png"
+    }
+  ],
+  "materials": [
+    {
+      "name": "gangqin",
+      "normalTexture": {
+        "index": 2,
+        "texCoord": 2
+      },
+      "occlusionTexture": {
+        "index": 1
+      },
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 0
+        },
+        "metallicRoughnessTexture": {
+          "index": 1,
+          "texCoord": 1
+        }
+      }
+    }
+  ],
+  "meshes": [
+    {
+      "name": "Object_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 1,
+            "POSITION": 0,
+            "TANGENT": 2,
+            "TEXCOORD_0": 3,
+            "TEXCOORD_1": 4,
+            "TEXCOORD_2": 5,
+            "TEXCOORD_3": 6,
+            "TEXCOORD_4": 7
+          },
+          "indices": 8,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "children": [
+        1
+      ],
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        2.220446049250313e-16,
+        -1.0,
+        0.0,
+        0.0,
+        1.0,
+        2.220446049250313e-16,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "Sketchfab_model"
+    },
+    {
+      "children": [
+        2
+      ],
+      "name": "root"
+    },
+    {
+      "children": [
+        3
+      ],
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        2.220446049250313e-16,
+        1.0,
+        0.0,
+        0.0,
+        -1.0,
+        2.220446049250313e-16,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "GLTF_SceneRootNode"
+    },
+    {
+      "children": [
+        4
+      ],
+      "matrix": [
+        1081.16748046875,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1081.16748046875,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1081.16748046875,
+        0.0,
+        -1037.1884765625,
+        345.49359130859375,
+        -158.32293701171875,
+        1.0
+      ],
+      "name": "root_0"
+    },
+    {
+      "children": [
+        5
+      ],
+      "name": "gangqin_1"
+    },
+    {
+      "children": [
+        6
+      ],
+      "name": "gangqin_2"
+    },
+    {
+      "mesh": 0,
+      "name": "Object_6"
+    }
+  ],
+  "samplers": [
+    {
+      "magFilter": 9729,
+      "minFilter": 9987,
+      "wrapS": 10497,
+      "wrapT": 10497
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "Sketchfab_Scene",
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "textures": [
+    {
+      "sampler": 0,
+      "source": 0
+    },
+    {
+      "sampler": 0,
+      "source": 1
+    },
+    {
+      "sampler": 0,
+      "source": 2
+    }
+  ]
+}

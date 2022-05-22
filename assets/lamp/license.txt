@@ -1,0 +1,11 @@
+Model Information:
+* title:	Bankers Lamp
+* source:	https://sketchfab.com/3d-models/bankers-lamp-570e3b45fed34efb8b22ca9b5b7eea39
+* author:	Scar56 (https://sketchfab.com/Scar56)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Bankers Lamp" (https://sketchfab.com/3d-models/bankers-lamp-570e3b45fed34efb8b22ca9b5b7eea39) by Scar56 (https://sketchfab.com/Scar56) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
